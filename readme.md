@@ -1,7 +1,7 @@
 # Basic Introduction
 This project is part of the FPGA-Based Design Methodology for Advanced Digital Systems course, offered by the Department of Electronic Engineering at Tsinghua University in China.
 
-In this project, I aim to implement a basic version of EIE (Efficient Inference Engine), as described in the paper: [*"EIE: Efficient Inference Engine on Compressed Deep Neural Network"* (S. Han et al., ISCA 2016)](https://ieeexplore.ieee.org/document/7551397)
+In this project, I aim to implement a basic simulation of the Efficient Inference Engine (EIE), as described in the paper [*"EIE: Efficient Inference Engine on Compressed Deep Neural Network"* (S. Han et al., ISCA 2016)](https://ieeexplore.ieee.org/document/7551397) This implementation does not involve hardware; it consists solely of Verilog and Python code.
 
 The primary objective of this project is to leverage the inherent sparsity in Convolutional Neural Networks (CNNs) to accelerate computation and reduce memory usage.
 
