@@ -1,12 +1,11 @@
 # Basic Introduction
 This project is part of the FPGA-Based Design Methodology for Advanced Digital Systems course, offered by the Department of Electronic Engineering at Tsinghua University in China.
 
-In this project, I aim to implement a basic version of EIE (Efficient Inference Engine), as described in the paper:
-S. Han et al., “EIE: Efficient inference engine on compressed deep neural networks,” in Proc. ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA), Jun. 2016, pp. 243-254.
+In this project, I aim to implement a basic version of EIE (Efficient Inference Engine), as described in the paper: [*"EIE: Efficient Inference Engine on Compressed Deep Neural Network"* (S. Han et al., ISCA 2016)](https://ieeexplore.ieee.org/document/7551397)
 
 The primary objective of this project is to leverage the inherent sparsity in Convolutional Neural Networks (CNNs) to accelerate computation and reduce memory usage.
 
-For more detailed information, please refer to the [Readme.pdf](readme.pdf), which also served as a project report for the course. Apologies for only providing the Chinese version at the moment. The file arrangement can be found at the end of the PDF.
+For more detailed information, please refer to the [Readme.pdf](readme.pdf), which also served as a project report for the course. Apologies for only providing the Chinese version at the moment. The file arrangement can be found at the end of the PDF. *Due to GitHub's limitations, please download the PDF to view its contents.*
 
 # Disclaimer
 
