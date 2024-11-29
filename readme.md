@@ -5,7 +5,7 @@ In this project, I aim to implement a basic simulation of the Efficient Inferenc
 
 The primary objective of this project is to leverage the inherent sparsity in Convolutional Neural Networks (CNNs) to accelerate computation and reduce memory usage.
 
-For more detailed information, please refer to the [Readme.pdf](readme.pdf), which also served as a project report for the course. Apologies for only providing the Chinese version at the moment. The file arrangement can be found at the end of the PDF. *Due to GitHub's limitations, please download the PDF to view its contents.*
+For more detailed information, please refer to the [Readme.pdf](readme.pdf), which also served as a project report for the course. Apologies for only providing the Chinese version at the moment. The file arrangement can be found at the end of the PDF.
 
 # Disclaimer
 
